@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0_Program\\VisualStudio\\C#\\Lesson1\\Task2\\Task2.csproj",
+      "projectUniqueName": "D:\\0_Program\\VisualStudio\\CSharp\\Lesson1\\Task2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "D:\\0_Program\\VisualStudio\\C#\\Lesson1\\Task2\\Task2.csproj",
+      "projectPath": "D:\\0_Program\\VisualStudio\\CSharp\\Lesson1\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\jilli\\.nuget\\packages\\",
-      "outputPath": "D:\\0_Program\\VisualStudio\\C#\\Lesson1\\Task2\\obj\\",
+      "outputPath": "D:\\0_Program\\VisualStudio\\CSharp\\Lesson1\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jilli\\AppData\\Roaming\\NuGet\\NuGet.Config"
