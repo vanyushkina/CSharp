@@ -1,0 +1,14 @@
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\bin\Debug\net7.0\Task3.exe
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\bin\Debug\net7.0\Task3.deps.json
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\bin\Debug\net7.0\Task3.dll
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\bin\Debug\net7.0\Task3.pdb
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\Task3.dll
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\refint\Task3.dll
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\Task3.pdb
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+D:\0_Program\VisualStudio\CSharp\Lesson1\Task3\obj\Debug\net7.0\ref\Task3.dll
