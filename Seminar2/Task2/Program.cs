@@ -4,6 +4,8 @@
 // 254 => 5^4 = 625
 // 617 => 1
 
+using Internal;
+
 Console.WriteLine("Введите целое трёхзначное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
@@ -20,3 +22,4 @@ if (number >= 100 && number <= 999)
     }
     Console.WriteLine(result);
 }
+else Console.WriteLine("Ошибка ввода!");
