@@ -9,6 +9,13 @@ int[] array = new int [10] {-10, -7, -5, -4, -1, 0, 4, 5, 7, 10};
 int length = array.Length;
 int index = 0;
 
+for (int i = 0; i < length; i++) // Печатаем массив с ',' и последний элемент без ','
+     {   if (i < length - 1)
+            Console.Write($"{array[i]}, ");
+        else
+            Console.Write(array[i]);
+     }
+
 while(index < length)
 {
     //array[index] = array[index]* -1;
