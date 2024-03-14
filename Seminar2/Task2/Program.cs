@@ -4,8 +4,6 @@
 // 254 => 5^4 = 625
 // 617 => 1
 
-using Internal;
-
 Console.WriteLine("Введите целое трёхзначное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
