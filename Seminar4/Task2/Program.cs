@@ -33,12 +33,12 @@ void PrintArray(int[] array)
     Console.WriteLine("]");
 }
 
-int NumberCountCheck(int[] arr)
+int NumberCountCheck(int[] arr, int lastDigit, int multiple)
 {
     int count = 0;
     for (int i = 0; i < arr.Length; i++)
     {
-        if (arr[i] % 1 == 1 && arr[i] % 7 == 0) count++;
+        if (arr[i] % 1 == lastDigit && arr[i] % multiple == 0) count++;
     }
     return count;
 }
@@ -49,4 +49,4 @@ int n = Convert.ToInt32(Console.ReadLine());
 int[] newArray = CreateArrayRndInt(n, 1, 100);
 PrintArray(newArray);
 Console.WriteLine();
-Console.WriteLine(NumberCountCheck(newArray));
+Console.WriteLine(NumberCountCheck(newArray, 1, 7));
